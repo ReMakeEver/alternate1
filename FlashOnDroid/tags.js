@@ -17,7 +17,7 @@ defineObject('SoundStreamHead2', 45);defineObject('DefineMorphShape', 46);definO
 defineObject('EnableDebugger', 58);defineObject('DoInitAction', 59);defineObject('DefineVideoStream', 60);defineObject('VideoFrame', 61);
 defineObject('DefineFontInfo2', 62);defineObject('EnableDebbuger2', 64);defineObject('ScriptLimits', 65);defineObject('SetTabIndex', 66);
 defineObject('FileAttributes', 69);defineObject('PlaceObject3', 70);defineObject('ImportAssets2', 71);
-defineObject('DefineFontAlignZones, 73);defineObject('CSMTextSettings', 74);defineObject('DefineFont3', 75);
+defineObject('DefineFontAlignZones', 73);defineObject('CSMTextSettings', 74);defineObject('DefineFont3', 75);
 defineObject('SymbolClass', 76);defineObject('Metadata', 77);defineObject('DefineScalingGrid', 78);defineObject('DoABC', 82);
 defineObject('DefineShape4', 83);defineObject('DefineMorphShape2', 84);defineObject('DefineSceneAndFrameLabelData', 86);
 defineObject('DefineBinaryData', 87);defineObject('DefineFontName', 88);defineObject('StartSound2', 89);
